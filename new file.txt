@@ -4,5 +4,5 @@
 
 =======
 # 
->>>>>>> Stashed changes
+
 my file

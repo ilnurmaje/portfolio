@@ -1,0 +1,4 @@
+
+# fg stash
+
+my file

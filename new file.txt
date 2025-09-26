@@ -1,8 +1,6 @@
-<<<<<<< Updated upstream
 
 # fg
 
-=======
-# 
 
-my file
+# my file
+# main-2

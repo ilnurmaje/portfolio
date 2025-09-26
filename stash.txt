@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-# fg
-=======
-# 
->>>>>>> Stashed changes
+
+# fg stash
+
 my file

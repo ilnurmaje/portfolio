@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 
 # fg
 
+=======
+# 
+>>>>>>> Stashed changes
 my file

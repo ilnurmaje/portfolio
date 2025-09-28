@@ -1,5 +1,3 @@
 
 my file
 
-
-# fg

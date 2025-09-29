@@ -1,0 +1,5 @@
+df.diff()
+
+df.discribe()
+
+df.mean()

@@ -3,3 +3,5 @@ df.diff()
 df.discribe()
 
 df.mean()
+
+df[df['age'] == 40]
